@@ -1,0 +1,6 @@
+[DUPLICATE] ./submissions/student3_duplicate.txt is a duplicate of ./submissions/student1.txt
+--------------------------------
+Execution Summary:
+Files Processed : 3
+Duplicates Found: 1
+Files Backed Up : 2
